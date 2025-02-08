@@ -6,7 +6,7 @@ This is a JavaScript function that provides a typewriter effect for text. It typ
 
 ### 1. Include the JavaScript File
 
-You can include the `typewriter.js` file in your HTML by linking it to a hosted version. For example, if you are hosting it on GitHub Pages or any other server, use the following link:
+You can include the `erase.js` file in your HTML by linking it to a hosted version. For example, if you are hosting it on GitHub Pages or any other server, use the following link:
 
 ```html
 <script src="https://your-hosted-link/typewriter.js"></script>
