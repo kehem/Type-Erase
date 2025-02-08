@@ -1,5 +1,5 @@
 // typewriter.js
-
+// Developed By KEHEM IT
 (function() {
     // Function to initialize and trigger the typing and erasing effect
     function typeAndErase() {
@@ -20,7 +20,7 @@
                     setTimeout(typeAndEraseCycle, 150); // Adjust typing speed
                 } else {
                     typing = false;
-                    setTimeout(typeAndEraseCycle, 2000); // Wait before erasing
+                    setTimeout(typeAndEraseCycle, 1000); // Wait before erasing
                 }
             } else {
                 // Erasing effect
