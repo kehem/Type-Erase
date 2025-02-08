@@ -9,7 +9,7 @@ This is a JavaScript function that provides a typewriter effect for text. It typ
 You can include the `erase.js` file in your HTML by linking it to a hosted version. For example, if you are hosting it on GitHub Pages or any other server, use the following link:
 
 ```html
-<script src="https://your-hosted-link/typewriter.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/kehem/Type-Erase@main/erase.js"></script>
 ```
 ### 2. Add HTML Elements
 Add the HTML structure with span elements that have the class erase and a data-text attribute with the content you want to type and erase.
