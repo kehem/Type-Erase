@@ -14,7 +14,7 @@ You can include the `erase.js` file in your HTML by linking it to a hosted versi
 ### 2. Add HTML Elements
 Add the HTML structure with span elements that have the class erase and a data-text attribute with the content you want to type and erase.
 
-```
+```html
 <div id="typewriter">
     <h2>How are you <span class="erase" data-text="Freelancer"></span><span class="erase" data-text="Django"></span></h2>
 </div>
@@ -22,7 +22,7 @@ Add the HTML structure with span elements that have the class erase and a data-t
 ### 3. Initialize the Typewriter Effect
 After including the JavaScript file in your HTML, call the initializeTypewriter() function to start the typing effect. Add this to the bottom of your HTML file:
 
-```
+```html
 <script>
     // Initialize the typewriter effect
     initializeTypewriter();
